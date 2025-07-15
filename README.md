@@ -1,20 +1,48 @@
-# Challange - Secret_friend
-## Projeto: Amigo Secreto
+<h1 align="center">🎁 Projeto: Amigo Secreto</h1>
 
-Este projeto faz parte do processo de seleção do curso da Oracle em junção com a Alura. O objeito desse primeiro challange é testar o desenvolvimento das habilidades ensinadas na primeira parte do curso. Diante disso, esse projeto traz desafios de Lógica da Programação, uso de funções e listas dentro do ambiente JavaScript. 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/feito%20com-html%20%7C%20css%20%7C%20javascript-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Desafio%20Alura-Oracle%20ONE-blue?style=flat-square" />
+</p>
 
-## Características
-Para utilizar esse projeto o usuário deverá alimentar o programa com nomes aleatórios e o objetivo dessa aplicação é ralizar um sorteio dentro da lista inserida.
-Para usar o projeto "Amigo Secreto", siga estes passos:
-![image](https://github.com/user-attachments/assets/a7f5478e-da8f-475c-a9c0-37a2818f3289)
-Preencha o campo 'digite um nome' é bem intuitivo: basta digitar o nome e clicar em 'adicionar'.
-![image](https://github.com/user-attachments/assets/46d074ba-4244-4fa4-8f88-65256bda1d49)
-Para evitar erros, certifique-se de preencher o campo 'digite um nome' antes de adicionar um participante. Caso contrário, você verá uma mensagem de erro.
-![image](https://github.com/user-attachments/assets/fb4c3724-b2c5-469a-a676-85ea9f372df0)
-Depois de adicionar todos os participantes, o botão 'Sortear amigo' estará disponível para realizar o sorteio e você poderá saber quem sorteou.
-![image](https://github.com/user-attachments/assets/7da2c0e4-13e1-4fca-95eb-5431360c9d2c)
+<p align="center">
+  Projeto desenvolvido como desafio inicial no curso Oracle + Alura, focado em lógica de programação, uso de funções e listas em JavaScript.
+</p>
 
-Este projeto marca a primeira etapa da minha jornada no mundo da programação com JavaScript. O desenvolvimento deste código foi um desafio significativo, considerando que há menos de um mês eu não tinha conhecimento sobre linguagens de programação. Foi uma experiência de aprendizado intensa e gratificante
+---
 
-## Tecnologia
-- [JavaScritp] - Noções básicas de lógica da programação
+## 🧠 Objetivo
+
+Este projeto tem como objetivo criar uma aplicação que realiza o sorteio do amigo secreto entre os participantes adicionados pelo usuário. O foco principal é praticar conceitos de lógica de programação, manipulação de listas e funções em JavaScript.
+
+---
+
+## 💻 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (DOM e lógica)
+- VS Code
+
+---
+
+## 📸 Demonstração
+🔗 Link do projeto publicado:  
+➡️ [https://prudenciom.github.io/amigo_secreto](https://prudenciom.github.io/amigo_secreto/)
+Para utilizar o projeto:
+
+1. Digite o nome do participante no campo indicado e clique em **Adicionar**.  
+2. Após adicionar todos os nomes, clique em **Sortear amigo** para revelar quem cada participante tirou.
+
+<img src="https://github.com/prudenciom/amigo_secreto/blob/main/images/amigo_secreto_1.png?raw=true" width="700" />  
+<img src="https://github.com/prudenciom/amigo_secreto/blob/main/images/amigo_secreto_2.png?raw=true" width="700" />  
+<img src="https://github.com/prudenciom/amigo_secreto/blob/main/images/amigo_secreto_3.png?raw=true" width="700" />  
+
+---
+
+## 🚀 Como rodar o projeto localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/prudenciom/amigo_secreto.git
