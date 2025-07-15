@@ -34,9 +34,10 @@ Para utilizar o projeto:
 
 1. Digite o nome do participante no campo indicado e clique em **Adicionar**.  
 2. Após adicionar todos os nomes, clique em **Sortear amigo** para revelar quem cada participante tirou.
-
-<img src="https://raw.githubusercontent.com/prudenciom/amigo_secreto/refs/heads/main/print_jogo_amigo_secreto.png" width="700" />  
+3. 
 <img src="https://raw.githubusercontent.com/prudenciom/amigo_secreto/refs/heads/main/print_inicio_amigo_secreto.png" width="700" />  
+<img src="https://raw.githubusercontent.com/prudenciom/amigo_secreto/refs/heads/main/print_jogo_amigo_secreto.png" width="700" />  
+
 
 
 ---
