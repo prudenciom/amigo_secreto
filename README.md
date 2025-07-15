@@ -47,3 +47,19 @@ Para utilizar o projeto:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/prudenciom/amigo_secreto.git
+```
+## 📚 Aprendizados
+
+- Manipulação de arrays e funções em JavaScript
+- Validação de inputs e mensagens de erro
+- Criação de lógica de sorteio sem repetições
+- Estruturação do fluxo do usuário com interações simples
+- Prática de boas práticas de escrita e organização de código
+
+## 📎 Créditos
+
+Desafio realizado como parte da formação:  
+🎓 [Oracle Next Education - Alura](https://www.alura.com.br)
+<p align="center">
+  Feito com 💙 por <strong>Maiara Franco</strong> • <a href="https://github.com/prudenciom" target="_blank">GitHub</a>
+</p>
